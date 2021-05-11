@@ -16,6 +16,6 @@
 // Import commands.js using ES2015 syntax:
 import "./commands";
 
-console.log(window.location);
+console.log(window.location.href);
 // Alternatively you can use CommonJS syntax:
 // require('./commands')

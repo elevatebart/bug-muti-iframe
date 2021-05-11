@@ -1,4 +1,6 @@
 {
   "componentFolder": "src",
-  "testFiles": "**/*.spec.{js,ts,jsx,tsx}"
+  "testFiles": "**/*.spec.{js,ts,jsx,tsx}",
+  "video": false,
+  "fixturesFolder": false
 }
